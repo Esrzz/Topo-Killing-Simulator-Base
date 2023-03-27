@@ -1,0 +1,11 @@
+D:\Proyecto\C Sharp Proyecto\Game Learning\Game Learning\bin\Debug\Game Learning.exe.config
+D:\Proyecto\C Sharp Proyecto\Game Learning\Game Learning\bin\Debug\Game Learning.exe
+D:\Proyecto\C Sharp Proyecto\Game Learning\Game Learning\bin\Debug\Game Learning.pdb
+D:\Proyecto\C Sharp Proyecto\Game Learning\Game Learning\obj\Debug\Game Learning.csproj.AssemblyReference.cache
+D:\Proyecto\C Sharp Proyecto\Game Learning\Game Learning\obj\Debug\Game Learning.csproj.SuggestedBindingRedirects.cache
+D:\Proyecto\C Sharp Proyecto\Game Learning\Game Learning\obj\Debug\Game_Learning.Form1.resources
+D:\Proyecto\C Sharp Proyecto\Game Learning\Game Learning\obj\Debug\Game_Learning.Properties.Resources.resources
+D:\Proyecto\C Sharp Proyecto\Game Learning\Game Learning\obj\Debug\Game Learning.csproj.GenerateResource.cache
+D:\Proyecto\C Sharp Proyecto\Game Learning\Game Learning\obj\Debug\Game Learning.csproj.CoreCompileInputs.cache
+D:\Proyecto\C Sharp Proyecto\Game Learning\Game Learning\obj\Debug\Game Learning.exe
+D:\Proyecto\C Sharp Proyecto\Game Learning\Game Learning\obj\Debug\Game Learning.pdb
